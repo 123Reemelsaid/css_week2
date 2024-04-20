@@ -1,0 +1,30 @@
+.y{
+    
+    background-color:darkgrey;
+    width: 400px;
+    
+    
+    padding-left: 10px;
+    white-space: normal;
+    margin-bottom: 20px;
+}
+
+.z{
+    background-color: darkgray;
+    width: 400px;
+    height: 50px;
+    padding-left: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.w{
+    background-color: darkgray;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    padding-left: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
